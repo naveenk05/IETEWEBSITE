@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    Hello, please commit your code here!
+    Hello, please commit your code here
   </div>
 </template>
 
